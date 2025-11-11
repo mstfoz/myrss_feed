@@ -1,0 +1,14 @@
+# Python and Shell scripts (The "Engine")
+*.py
+*.sh
+
+# Vim swap files
+*.swp
+*.swo
+
+# Python cache
+__pycache__/
+
+# macOS system files
+.DS_Store
+
