@@ -1,14 +1,18 @@
-2025-11-12 14:53:45 - INFO - --- RSS Mixer Script Started ---
-2025-11-12 14:53:45 - INFO - Current UTC time: 2025-11-12 13:53:45.293926+00:00
-2025-11-12 14:53:45 - INFO - Filtering for articles newer than: 2025-11-11 13:24:57.293926+00:00
-2025-11-12 14:53:45 - INFO - 
+2025-11-12 14:56:00 - INFO - --- RSS Mixer Script Started ---
+2025-11-12 14:56:00 - INFO - Current UTC time: 2025-11-12 13:56:00.908387+00:00
+2025-11-12 14:56:00 - INFO - Filtering for articles newer than: 2025-11-11 13:27:12.908387+00:00
+2025-11-12 14:56:01 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jctcce
-2025-11-12 14:53:45 - INFO - -> Older than X days, stopping parse for this feed: [ASAP] Accelerating Hartree–Fo...
-2025-11-12 14:53:45 - INFO - 
+2025-11-12 14:56:01 - INFO - -> Older than X days, stopping parse for this feed: [ASAP] Accelerating Hartree–Fo...
+2025-11-12 14:56:01 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jaaucr
-2025-11-12 14:53:45 - INFO - -> Older than X days, stopping parse for this feed: [ASAP] One-Pot Synthesis of Tr...
-2025-11-12 14:53:45 - INFO - 
+2025-11-12 14:56:01 - INFO - -> Older than X days, stopping parse for this feed: [ASAP] One-Pot Synthesis of Tr...
+2025-11-12 14:56:01 - INFO - 
+Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=amrcda
+2025-11-12 14:56:01 - INFO - -> ADDED (Date: 2025-11-11 20:19:35+00:00): [ASAP] Organic Room Temperatur...
+2025-11-12 14:56:01 - INFO - -> Older than X days, stopping parse for this feed: [ASAP] Advanced Fabrication of...
+2025-11-12 14:56:01 - INFO - 
 --- Feed Processing Finished ---
-2025-11-12 14:53:45 - INFO - Total articles that passed the filter: 0
-2025-11-12 14:53:45 - INFO - Successfully generated new RSS feed: custom_feed.xml
-2025-11-12 14:53:45 - INFO - --- RSS Mixer Script Finished ---
+2025-11-12 14:56:01 - INFO - Total articles that passed the filter: 1
+2025-11-12 14:56:01 - INFO - Successfully generated new RSS feed: custom_feed.xml
+2025-11-12 14:56:01 - INFO - --- RSS Mixer Script Finished ---
