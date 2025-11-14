@@ -1,44 +1,28 @@
-2025-11-14 10:29:48 - INFO - --- RSS Mixer Script Started ---
-2025-11-14 10:29:48 - INFO - Current UTC time: 2025-11-14 09:29:48.627940+00:00
-2025-11-14 10:29:48 - INFO - Filtering for articles newer than: 2025-11-13 09:01:00.627940+00:00
-2025-11-14 10:29:48 - INFO - 
+2025-11-14 13:04:20 - INFO - --- RSS Mixer Script Started ---
+2025-11-14 13:04:20 - INFO - Current UTC time: 2025-11-14 12:04:20.533565+00:00
+2025-11-14 13:04:20 - INFO - Filtering for articles newer than: 2025-11-13 11:35:32.533565+00:00
+2025-11-14 13:04:30 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jctcce
-2025-11-14 10:29:48 - INFO - -> ADDED (Date: 2025-11-13 13:07:53+00:00): [ASAP] Full-Dimensional Time-I...
-2025-11-14 10:29:48 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Reducing the Cost of En...
-2025-11-14 10:29:49 - INFO - 
+2025-11-14 13:04:41 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jaaucr
-2025-11-14 10:29:49 - INFO - -> ADDED (Date: 2025-11-13 09:17:53+00:00): [ASAP] Methane Synthesis from ...
-2025-11-14 10:29:49 - INFO - -> ADDED (Date: 2025-11-13 20:14:55+00:00): [ASAP] A Universal Model of Ca...
-2025-11-14 10:29:49 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] The Current Toolbox for...
-2025-11-14 10:29:49 - INFO - 
+2025-11-14 13:04:51 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=amrcda
-2025-11-14 10:29:49 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Organic Room Temperatur...
-2025-11-14 10:29:49 - INFO - 
+2025-11-14 13:05:01 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=acbcct
-2025-11-14 10:29:49 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Correction to “Chemical...
-2025-11-14 10:29:50 - INFO - 
+2025-11-14 13:05:11 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat
-2025-11-14 10:29:50 - INFO - -> ADDED (Date: 2025-11-13 11:13:38+00:00): [ASAP] Tailored Interphase Che...
-2025-11-14 10:29:50 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Cucurbit[8]uril-Induced...
-2025-11-14 10:29:50 - INFO - 
+2025-11-14 13:05:22 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpcafh
-2025-11-14 10:29:50 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Edge Migration of Aroma...
-2025-11-14 10:29:50 - INFO - 
+2025-11-14 13:05:32 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpcbfk
-2025-11-14 10:29:50 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] New Coarse-Grained Mode...
-2025-11-14 10:29:50 - INFO - 
+2025-11-14 13:05:42 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpccck
-2025-11-14 10:29:50 - INFO - -> ADDED (Date: 2025-11-13 13:40:32+00:00): [ASAP] Predicting Electrocatal...
-2025-11-14 10:29:50 - INFO - -> ADDED (Date: 2025-11-13 14:02:36+00:00): [ASAP] Reactivity of Pentameth...
-2025-11-14 10:29:50 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Quantitative Imaging of...
-2025-11-14 10:29:51 - INFO - 
+2025-11-14 13:05:53 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpclcd
-2025-11-14 10:29:51 - INFO - -> ADDED (Date: 2025-11-13 13:37:31+00:00): [ASAP] Multi-Dimensional Spect...
-2025-11-14 10:29:51 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Lithium-Compatible Hali...
-2025-11-14 10:29:51 - INFO - 
+2025-11-14 13:05:53 - INFO - 
 --- Feed Processing Finished ---
-2025-11-14 10:29:51 - INFO - Total articles that passed the filter: 7
-2025-11-14 10:29:51 - INFO - Injecting pinned test entry at the top of the feed.
-2025-11-14 10:29:51 - INFO - Final feed count: 8 (including pinned item).
-2025-11-14 10:29:51 - INFO - Successfully generated new RSS feed: custom_feed.xml
-2025-11-14 10:29:51 - INFO - --- RSS Mixer Script Finished ---
+2025-11-14 13:05:53 - INFO - Total articles that passed the filter: 0
+2025-11-14 13:05:53 - INFO - Injecting pinned test entry at the top of the feed.
+2025-11-14 13:05:53 - INFO - Final feed count: 1 (including pinned item).
+2025-11-14 13:05:53 - INFO - Successfully generated new RSS feed: custom_feed.xml
+2025-11-14 13:05:53 - INFO - --- RSS Mixer Script Finished ---
