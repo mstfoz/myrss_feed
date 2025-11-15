@@ -1,28 +1,28 @@
-2025-11-15 12:53:29 - INFO - --- RSS Mixer Script Started ---
-2025-11-15 12:53:29 - INFO - Current UTC time: 2025-11-15 11:53:29.468437+00:00
-2025-11-15 12:53:29 - INFO - Filtering for articles newer than: 2025-11-14 11:24:41.468437+00:00
-2025-11-15 12:53:39 - INFO - 
+2025-11-15 14:55:24 - INFO - --- RSS Mixer Script Started ---
+2025-11-15 14:55:24 - INFO - Current UTC time: 2025-11-15 13:55:24.003697+00:00
+2025-11-15 14:55:24 - INFO - Filtering for articles newer than: 2025-11-14 13:26:36.003697+00:00
+2025-11-15 14:55:34 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jctcce
-2025-11-15 12:53:50 - INFO - 
+2025-11-15 14:55:44 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jaaucr
-2025-11-15 12:54:00 - INFO - 
+2025-11-15 14:55:54 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=amrcda
-2025-11-15 12:54:11 - INFO - 
+2025-11-15 14:56:04 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=acbcct
-2025-11-15 12:54:21 - INFO - 
+2025-11-15 14:56:15 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat
-2025-11-15 12:54:31 - INFO - 
+2025-11-15 14:56:25 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpcafh
-2025-11-15 12:54:41 - INFO - 
+2025-11-15 14:56:36 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpcbfk
-2025-11-15 12:54:52 - INFO - 
+2025-11-15 14:56:46 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpccck
-2025-11-15 12:55:02 - INFO - 
+2025-11-15 14:56:56 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpclcd
-2025-11-15 12:55:02 - INFO - 
+2025-11-15 14:56:56 - INFO - 
 --- Feed Processing Finished ---
-2025-11-15 12:55:02 - INFO - Total articles that passed the filter: 0
-2025-11-15 12:55:02 - INFO - Injecting pinned test entry at the top of the feed.
-2025-11-15 12:55:02 - INFO - Final feed count: 1 (including pinned item).
-2025-11-15 12:55:02 - INFO - Successfully generated new RSS feed: custom_feed.xml
-2025-11-15 12:55:02 - INFO - --- RSS Mixer Script Finished ---
+2025-11-15 14:56:56 - INFO - Total articles that passed the filter: 0
+2025-11-15 14:56:56 - INFO - Injecting pinned test entry at the top of the feed.
+2025-11-15 14:56:56 - INFO - Final feed count: 1 (including pinned item).
+2025-11-15 14:56:56 - INFO - Successfully generated new RSS feed: custom_feed.xml
+2025-11-15 14:56:56 - INFO - --- RSS Mixer Script Finished ---
