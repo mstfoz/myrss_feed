@@ -1,28 +1,45 @@
-2025-11-15 14:55:24 - INFO - --- RSS Mixer Script Started ---
-2025-11-15 14:55:24 - INFO - Current UTC time: 2025-11-15 13:55:24.003697+00:00
-2025-11-15 14:55:24 - INFO - Filtering for articles newer than: 2025-11-14 13:26:36.003697+00:00
-2025-11-15 14:55:34 - INFO - 
+2025-11-15 15:16:44 - INFO - --- RSS Mixer Script Started ---
+2025-11-15 15:16:44 - INFO - Current UTC time: 2025-11-15 14:16:44.971158+00:00
+2025-11-15 15:16:44 - INFO - Filtering for articles newer than: 2025-11-14 13:47:56.971158+00:00
+2025-11-15 15:16:45 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jctcce
-2025-11-15 14:55:44 - INFO - 
+2025-11-15 15:16:45 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] DEGAUSS: A Novel Softco...
+2025-11-15 15:16:45 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jaaucr
-2025-11-15 14:55:54 - INFO - 
+2025-11-15 15:16:45 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Protonated Phenanthroli...
+2025-11-15 15:16:45 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=amrcda
-2025-11-15 14:56:04 - INFO - 
+2025-11-15 15:16:45 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Organic Room Temperatur...
+2025-11-15 15:16:47 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=acbcct
-2025-11-15 14:56:15 - INFO - 
+2025-11-15 15:16:47 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Correction to “Chemical...
+2025-11-15 15:16:47 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat
-2025-11-15 14:56:25 - INFO - 
+2025-11-15 15:16:47 - INFO - -> ADDED (Date: 2025-11-15 14:00:39+00:00): [ASAP] SSNet: A Spectral Unmix...
+2025-11-15 15:16:47 - INFO - -> ADDED (Date: 2025-11-15 14:01:37+00:00): [ASAP] Coupling Coordination S...
+2025-11-15 15:16:47 - INFO - -> ADDED (Date: 2025-11-14 20:25:17+00:00): [ASAP] Evolution of Hydrogen-B...
+2025-11-15 15:16:47 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Chemical Tagging of N-A...
+2025-11-15 15:16:47 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpcafh
-2025-11-15 14:56:36 - INFO - 
+2025-11-15 15:16:47 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Before We Inject: Asses...
+2025-11-15 15:16:48 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpcbfk
-2025-11-15 14:56:46 - INFO - 
+2025-11-15 15:16:48 - INFO - -> ADDED (Date: 2025-11-15 13:00:15+00:00): [ASAP] Nanoplastics and the Ro...
+2025-11-15 15:16:48 - INFO - -> ADDED (Date: 2025-11-14 16:48:50+00:00): [ASAP] Investigating the Struc...
+2025-11-15 15:16:48 - INFO - -> ADDED (Date: 2025-11-14 19:24:01+00:00): [ASAP] Positron Age-Momentum C...
+2025-11-15 15:16:48 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Crystalline and Amorpho...
+2025-11-15 15:16:48 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpccck
-2025-11-15 14:56:56 - INFO - 
+2025-11-15 15:16:48 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Electrolyte Vapor Induc...
+2025-11-15 15:16:48 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpclcd
-2025-11-15 14:56:56 - INFO - 
+2025-11-15 15:16:48 - INFO - -> ADDED (Date: 2025-11-14 20:51:43+00:00): [ASAP] Beyond TD-DFT: Assessin...
+2025-11-15 15:16:48 - INFO - -> ADDED (Date: 2025-11-14 17:03:43+00:00): [ASAP] Spin Dynamics and Ionic...
+2025-11-15 15:16:48 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] SFMMoE: A Semi-Empirica...
+2025-11-15 15:16:48 - INFO - 
 --- Feed Processing Finished ---
-2025-11-15 14:56:56 - INFO - Total articles that passed the filter: 0
-2025-11-15 14:56:56 - INFO - Injecting pinned test entry at the top of the feed.
-2025-11-15 14:56:56 - INFO - Final feed count: 1 (including pinned item).
-2025-11-15 14:56:56 - INFO - Successfully generated new RSS feed: custom_feed.xml
-2025-11-15 14:56:56 - INFO - --- RSS Mixer Script Finished ---
+2025-11-15 15:16:48 - INFO - Total articles that passed the filter: 8
+2025-11-15 15:16:48 - INFO - Injecting pinned test entry at the top of the feed.
+2025-11-15 15:16:48 - INFO - Final feed count: 9 (including pinned item).
+2025-11-15 15:16:48 - INFO - Successfully generated new RSS feed: custom_feed.xml
+2025-11-15 15:16:48 - INFO - --- RSS Mixer Script Finished ---
