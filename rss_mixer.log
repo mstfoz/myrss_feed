@@ -1,41 +1,28 @@
-2026-01-02 01:46:43 - INFO - --- RSS Mixer Script Started ---
-2026-01-02 01:46:43 - INFO - Current UTC time: 2026-01-01 22:46:43.074553+00:00
-2026-01-02 01:46:43 - INFO - Filtering for articles newer than: 2025-12-31 22:17:55.074553+00:00
-2026-01-02 01:46:43 - INFO - 
+2026-01-02 11:42:09 - INFO - --- RSS Mixer Script Started ---
+2026-01-02 11:42:09 - INFO - Current UTC time: 2026-01-02 08:42:09.329917+00:00
+2026-01-02 11:42:09 - INFO - Filtering for articles newer than: 2026-01-01 08:13:21.329917+00:00
+2026-01-02 11:42:09 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jctcce
-2026-01-02 01:46:43 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Chirality-Induced Orbit...
-2026-01-02 01:46:43 - INFO - 
+2026-01-02 11:42:09 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jaaucr
-2026-01-02 01:46:43 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Water-Tolerant Iminium ...
-2026-01-02 01:46:44 - INFO - 
+2026-01-02 11:42:09 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=amrcda
-2026-01-02 01:46:44 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Optoelectronic Synaptic...
-2026-01-02 01:46:44 - INFO - 
+2026-01-02 11:42:09 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=acbcct
-2026-01-02 01:46:44 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] A Site-Specific Self-As...
-2026-01-02 01:46:44 - INFO - 
+2026-01-02 11:42:09 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat
-2026-01-02 01:46:44 - INFO - -> ADDED (Date: 2026-01-01 11:18:54+00:00): [ASAP] Oxo Ligand Insertion in...
-2026-01-02 01:46:44 - INFO - -> ADDED (Date: 2026-01-01 12:07:50+00:00): [ASAP] Coexistence of Ohmic Co...
-2026-01-02 01:46:44 - INFO - -> ADDED (Date: 2026-01-01 20:37:37+00:00): [ASAP] Computational Elucidati...
-2026-01-02 01:46:44 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Tracking Interphase Gro...
-2026-01-02 01:46:45 - INFO - 
+2026-01-02 11:42:09 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpcafh
-2026-01-02 01:46:45 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Data-Driven Learning of...
-2026-01-02 01:46:45 - INFO - 
+2026-01-02 11:42:09 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpcbfk
-2026-01-02 01:46:45 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Microstructure-Driven M...
-2026-01-02 01:46:45 - INFO - 
+2026-01-02 11:42:09 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpccck
-2026-01-02 01:46:45 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Vapor and Molten Mg-Bas...
-2026-01-02 01:46:46 - INFO - 
+2026-01-02 11:42:09 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpclcd
-2026-01-02 01:46:46 - INFO - -> ADDED (Date: 2026-01-01 10:47:49+00:00): [ASAP] Skin Safety Monitor Bas...
-2026-01-02 01:46:46 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Impact of Vacancies on ...
-2026-01-02 01:46:46 - INFO - 
+2026-01-02 11:42:09 - INFO - 
 --- Feed Processing Finished ---
-2026-01-02 01:46:46 - INFO - Total articles that passed the filter: 4
-2026-01-02 01:46:46 - INFO - Injecting pinned test entry at the top of the feed.
-2026-01-02 01:46:46 - INFO - Final feed count: 5 (including pinned item).
-2026-01-02 01:46:46 - INFO - Successfully generated new RSS feed: custom_feed.xml
-2026-01-02 01:46:46 - INFO - --- RSS Mixer Script Finished ---
+2026-01-02 11:42:09 - INFO - Total articles that passed the filter: 0
+2026-01-02 11:42:09 - INFO - Injecting pinned test entry at the top of the feed.
+2026-01-02 11:42:09 - INFO - Final feed count: 1 (including pinned item).
+2026-01-02 11:42:09 - INFO - Successfully generated new RSS feed: custom_feed.xml
+2026-01-02 11:42:09 - INFO - --- RSS Mixer Script Finished ---
