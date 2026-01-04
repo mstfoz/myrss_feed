@@ -1,28 +1,37 @@
-2026-01-02 11:42:09 - INFO - --- RSS Mixer Script Started ---
-2026-01-02 11:42:09 - INFO - Current UTC time: 2026-01-02 08:42:09.329917+00:00
-2026-01-02 11:42:09 - INFO - Filtering for articles newer than: 2026-01-01 08:13:21.329917+00:00
-2026-01-02 11:42:09 - INFO - 
+2026-01-04 08:17:49 - INFO - --- RSS Mixer Script Started ---
+2026-01-04 08:17:49 - INFO - Current UTC time: 2026-01-04 07:17:49.140510+00:00
+2026-01-04 08:17:49 - INFO - Filtering for articles newer than: 2026-01-03 06:49:01.140510+00:00
+2026-01-04 08:17:49 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jctcce
-2026-01-02 11:42:09 - INFO - 
+2026-01-04 08:17:49 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Why Variational Density...
+2026-01-04 08:17:49 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jaaucr
-2026-01-02 11:42:09 - INFO - 
+2026-01-04 08:17:49 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Twisted Allenyl-Pyridoc...
+2026-01-04 08:17:50 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=amrcda
-2026-01-02 11:42:09 - INFO - 
+2026-01-04 08:17:50 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Reaction-Induced Patter...
+2026-01-04 08:17:50 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=acbcct
-2026-01-02 11:42:09 - INFO - 
+2026-01-04 08:17:50 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Quantitative Degradatio...
+2026-01-04 08:17:50 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat
-2026-01-02 11:42:09 - INFO - 
+2026-01-04 08:17:50 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Disulfide-Directed Mult...
+2026-01-04 08:17:51 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpcafh
-2026-01-02 11:42:09 - INFO - 
+2026-01-04 08:17:51 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Second Virial Coefficie...
+2026-01-04 08:17:51 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpcbfk
-2026-01-02 11:42:09 - INFO - 
+2026-01-04 08:17:51 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] On the Implementation o...
+2026-01-04 08:17:51 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpccck
-2026-01-02 11:42:09 - INFO - 
+2026-01-04 08:17:51 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Realization of the Bond...
+2026-01-04 08:17:52 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpclcd
-2026-01-02 11:42:09 - INFO - 
+2026-01-04 08:17:52 - INFO - -> Older than threshold, stopping parse for this feed: [ASAP] Directly Measuring the ...
+2026-01-04 08:17:52 - INFO - 
 --- Feed Processing Finished ---
-2026-01-02 11:42:09 - INFO - Total articles that passed the filter: 0
-2026-01-02 11:42:09 - INFO - Injecting pinned test entry at the top of the feed.
-2026-01-02 11:42:09 - INFO - Final feed count: 1 (including pinned item).
-2026-01-02 11:42:09 - INFO - Successfully generated new RSS feed: custom_feed.xml
-2026-01-02 11:42:09 - INFO - --- RSS Mixer Script Finished ---
+2026-01-04 08:17:52 - INFO - Total articles that passed the filter: 0
+2026-01-04 08:17:52 - INFO - Injecting pinned test entry at the top of the feed.
+2026-01-04 08:17:52 - INFO - Final feed count: 1 (including pinned item).
+2026-01-04 08:17:52 - INFO - Successfully generated new RSS feed: custom_feed.xml
+2026-01-04 08:17:52 - INFO - --- RSS Mixer Script Finished ---
