@@ -1,28 +1,28 @@
-2026-01-05 09:42:39 - INFO - --- RSS Mixer Script Started ---
-2026-01-05 09:42:39 - INFO - Current UTC time: 2026-01-05 08:42:39.958928+00:00
-2026-01-05 09:42:39 - INFO - Filtering for articles newer than: 2026-01-04 08:13:51.958928+00:00
-2026-01-05 09:42:49 - INFO - 
+2026-01-05 11:57:18 - INFO - --- RSS Mixer Script Started ---
+2026-01-05 11:57:18 - INFO - Current UTC time: 2026-01-05 10:57:18.232079+00:00
+2026-01-05 11:57:18 - INFO - Filtering for articles newer than: 2026-01-04 10:28:30.232079+00:00
+2026-01-05 11:57:28 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jctcce
-2026-01-05 09:43:00 - INFO - 
+2026-01-05 11:57:38 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jaaucr
-2026-01-05 09:43:10 - INFO - 
+2026-01-05 11:57:49 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=amrcda
-2026-01-05 09:43:20 - INFO - 
+2026-01-05 11:57:59 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=acbcct
-2026-01-05 09:43:31 - INFO - 
+2026-01-05 11:58:09 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat
-2026-01-05 09:43:41 - INFO - 
+2026-01-05 11:58:19 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpcafh
-2026-01-05 09:43:51 - INFO - 
+2026-01-05 11:58:30 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpcbfk
-2026-01-05 09:44:02 - INFO - 
+2026-01-05 11:58:40 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpccck
-2026-01-05 09:44:12 - INFO - 
+2026-01-05 11:58:51 - INFO - 
 Processing feed: https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpclcd
-2026-01-05 09:44:12 - INFO - 
+2026-01-05 11:58:51 - INFO - 
 --- Feed Processing Finished ---
-2026-01-05 09:44:12 - INFO - Total articles that passed the filter: 0
-2026-01-05 09:44:12 - INFO - Injecting pinned test entry at the top of the feed.
-2026-01-05 09:44:12 - INFO - Final feed count: 1 (including pinned item).
-2026-01-05 09:44:12 - INFO - Successfully generated new RSS feed: custom_feed.xml
-2026-01-05 09:44:12 - INFO - --- RSS Mixer Script Finished ---
+2026-01-05 11:58:51 - INFO - Total articles that passed the filter: 0
+2026-01-05 11:58:51 - INFO - Injecting pinned test entry at the top of the feed.
+2026-01-05 11:58:51 - INFO - Final feed count: 1 (including pinned item).
+2026-01-05 11:58:51 - INFO - Successfully generated new RSS feed: custom_feed.xml
+2026-01-05 11:58:51 - INFO - --- RSS Mixer Script Finished ---
